@@ -9,10 +9,12 @@ background: linear-gradient(to right, #4A00E0, #8E2DE2); /* W3C, IE 10+/ Edge, F
 }
 
 h1 {
+	
 	text-align: center;
 }
 
 h4 {
+	color: white;
 	text-align: center;
 }
 
@@ -26,7 +28,7 @@ a{
 
 
 p{
-
+	color: white;
 	text-align: center;
 }
 
